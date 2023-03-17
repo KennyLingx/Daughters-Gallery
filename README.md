@@ -1,3 +1,3 @@
 # Daughter' s Gallery
 
-https://kennylingx.github.io/Second-Assignment/
+https://kennylingx.github.io/Daughters-Gallery/
