@@ -1,3 +1,3 @@
-# Second-Assignment
-This is second assignment !
+# Daughter' s Gallery
+
 https://kennylingx.github.io/Second-Assignment/
